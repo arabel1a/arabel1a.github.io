@@ -1,4 +1,7 @@
 title: 'arabel1a's landing page'
+description: "A CNC ML kiddie"
+url: "https://arabel1a.github.io"
+
 header_pages:
   - index.md
   - peter.md
