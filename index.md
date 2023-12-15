@@ -4,14 +4,13 @@ layout: home
 permalink: /
 ---
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
-
-Welcome to Misha Shorokikh personal page!
+Welcome to arabel1a's landing page!
 
 My cool stuff:
- * a open-source reimplementation of SERCOS II protocol for LinuxCNC *[link will be added soon]*
- * an extendible converter for EMC languages *[needs deep refactoring]*
- * s-curve stepdir library for stm32 *[outdated]*
- * tasks for the practices i am teaching *[not available]*
+ * [ ] An open-source reimplementation of SERCOS II protocol for LinuxCNC 
+        *[link will be added soon]*
+ * [ ] An extendible converter for EMC languages *[needs deep refactoring](https://github.com/arabel1a/lst2ngc)*
+ * [ ] S-curve stepdir library for STM32 *[outdated](https://github.com/arabel1a/S-curve-stepdir)*
+ * [ ] Tasks for the practices i am teaching *[not available yet]*
  
 Once i will update all the stuff, but not today :D
