@@ -13,4 +13,5 @@ My cool stuff:
  * [ ] S-curve stepdir library for STM32 *[outdated](https://github.com/arabel1a/S-curve-stepdir)*
  * [ ] Tasks for the practices i am teaching *[not available yet]*
  
+
 Once i will update all the stuff, but not today :D
