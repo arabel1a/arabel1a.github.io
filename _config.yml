@@ -1,11 +1,9 @@
 remote_theme: arabel1a/jekyll-theme-console
 
 title: "arabel1a's landing page"
-description: "A CNC ML kiddie"
 
 header_pages:
   - index.md
-  - peter.md
   - about.md
 
 style: dark
