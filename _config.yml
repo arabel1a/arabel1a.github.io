@@ -1,6 +1,9 @@
 remote_theme: arabel1a/jekyll-theme-console
 
-title: "arabel1a's landing page"
+title: Misha Shirokikh's homepage
+
+plugins:
+  - jekyll-seo-tag
 
 header_pages:
   - index.md
@@ -10,5 +13,3 @@ style: dark
 
 footer: 'contact via tg <a href="https://t.me/arabel1a">@arabel1a</a>'
 
-# Build settings
-markdown: kramdown
