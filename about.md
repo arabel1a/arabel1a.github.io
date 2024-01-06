@@ -4,36 +4,44 @@ title: /about
 permalink: /me/
 ---
 
-Cool guy addicted to textual interfaces.
-Machine Learning ~~researcher~~ kiddie, an CNC integrator.
+This page is my interactive CV. 
 
 # Education
----
 [2022 - ongoing] Master of Science in Math and Computer Science @ *SPbU*
 [2018 - 2022] Bachelor of Science in Math and Computer Science @ *SPbU*
 
 # Work Experience
----
-### [Machine Learning Researcher @ PDMI AI lab, led by S. Nikolenko](https://ai.pdmi.ras.ru/)
-[2023] Researching deep learning based simulators for 
-		 learning recommendation systems @ *SBER x PDMI*
 
-[2022] Researching ML-based heuristics for CDCL solvers @ *HUAWEI x PDMI*
+### [Machine Learning Researcher @ PDMI AI lab, led by S. Nikolenko](https://ai.pdmi.ras.ru/)
+* [2024] Something secret, *XXX x PDMI*
+* [2023] Researching deep learning based simulators for learning recommendation systems @ *SBER x PDMI*
+* [2022] Researching ML-based heuristics for CDCL solvers @ *HUAWEI x PDMI*
 
 ### Math Optimization Specialist
-[2023] Optimizing the way how industrial task is feed to MILP solvers @ *Zyfra*
+* [2023] Optimizing the way how industrial task is feed to MILP solvers @ *Zyfra*
 
 ### CNC Integrator
 * [2019-2022] Modernization, repairment & developing CNC machines 
 
-# Side Activities
----
-* Math regional olympiad grading
-* Teaching and preparing school students for math competitions
-* Teaching assistant on Deep Learning @ *MCs SPbU*
-* Teaching assistant on Machine Learning @ *DS HSE*
+### Machine Learning Teacher
+* [2023] Teaching assistant on Deep Learning @ *MCS SPbU*
+* [2023 - 2024] Teaching assistant on Machine Learning @ *DS HSE*
 
 # Publications
----
-* [Machine Learning for SAT: Restricted Heuristics and New Graph Representations
-		Mikhail Schirokikh, et al.](https://arxiv.org/abs/2307.09141)
+* [Machine Learning for SAT: Restricted Heuristics and New Graph Representations](https://arxiv.org/abs/2307.09141) Mikhail Shirokikh, Ilya Shenbin, Anton Alekseev, Sergey Nikolenko
+* [User Response Modelling In Recommender Systems: A Survey](http://ftp.pdmi.ras.ru/pub/publicat/znsl/v530/p141.pdf) M. Shirokikh, I. Shenbin, A. Alekseev, A. Volodkevich, A. Vasilev, S. I. Nikolenko
+
+# Timeline
+
+I have git repository where i commit some important stuff of my life. Sadly, I can not use 
+```bash
+git checkout
+``` 
+in real life, but i can 
+
+```bash
+git log --graph --abbrev-commit --decorate --date=iso --all --date-order
+```
+to plot this funny tree:
+
+{% include tmp.html %}
