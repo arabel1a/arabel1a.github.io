@@ -33,7 +33,7 @@ This page is my interactive CV.
 
 # Timeline
 
-I have git repository where i commit some important stuff of my life. Sadly, I can not use 
+Once i had to learn advanced git in a short time, so i made git repository where i commit some important stuff of my life for experiments. Sadly, I can not use 
 ```bash
 git checkout
 ``` 
