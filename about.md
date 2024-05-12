@@ -31,18 +31,3 @@ This page is my interactive CV.
 * [Neural Click Models for Recommender Systems] M. Shirokikh, I. Shenbin, A. Alekseev, A. Volodkevich, A. Vasilev, S. I. Nikolenko -- _accepted by SIGIR24_
 * [User Response Modelling In Recommender Systems: A Survey](http://ftp.pdmi.ras.ru/pub/publicat/znsl/v530/p141.pdf) M. Shirokikh, I. Shenbin, A. Alekseev, A. Volodkevich, A. Vasilev, S. I. Nikolenko
 * [Machine Learning for SAT: Restricted Heuristics and New Graph Representations](https://arxiv.org/abs/2307.09141) Mikhail Shirokikh, Ilya Shenbin, Anton Alekseev, Sergey Nikolenko
-
-# Timeline
-
-Once i had to learn advanced git in a short time, so i made git repository where i commit some important stuff of my life for experiments. Sadly, I can not use 
-```bash
-git checkout
-``` 
-in real life, but i can 
-
-```bash
-git log --graph --abbrev-commit --decorate --date=iso --all --date-order
-```
-to plot this funny tree:
-
-{% include tmp.html %}
