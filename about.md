@@ -7,7 +7,7 @@ permalink: /me/
 This page is my interactive CV. 
 
 # Education
-[2022 - ongoing] Master of Science in Math and Computer Science @ *SPbU*
+[2022 - 2024] Master of Science in Math and Computer Science @ *SPbU*
 [2018 - 2022] Bachelor of Science in Math and Computer Science @ *SPbU*
 
 # Work Experience
