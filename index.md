@@ -6,8 +6,8 @@ permalink: /
 
 Welcome to my landing page!
 
-My cool stuff:
- * [ ] [This cite theme](https://github.com/arabel1a/jekyll-theme-console)
+My amazing stuff:
+ * [ ] [This site theme](https://github.com/arabel1a/jekyll-theme-console)
  * [ ] [My CV]({% link about.md %})
  * [ ] An open-source reimplementation of SERCOS II protocol for LinuxCNC (coming soon...)
  * [ ] An extendible converter for EMC languages *[needs deep refactoring](https://github.com/arabel1a/lst2ngc)*
