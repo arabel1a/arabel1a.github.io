@@ -8,12 +8,12 @@ This page is my interactive CV.
 
 # Education
 [2022 - 2024] Master of Science in Math and Computer Science @ *SPbU*
+**Thesis:** Efficient neural architectures for NP-hard problems and recommender systems 
 [2018 - 2022] Bachelor of Science in Math and Computer Science @ *SPbU*
 
 # Work Experience
 
 ### [Machine Learning Researcher @ PDMI AI lab, led by S. Nikolenko](https://ai.pdmi.ras.ru/)
-* [2024] Something secret, *XXX x PDMI*
 * [2023] Researching deep learning based simulators for learning recommendation systems @ *SBER x PDMI*
 * [2022] Researching ML-based heuristics for CDCL solvers @ *HUAWEI x PDMI*
 
@@ -25,7 +25,7 @@ This page is my interactive CV.
 
 ### Machine Learning Teacher
 * [2023] Teaching assistant on Deep Learning @ *MCS SPbU*
-* [2023 - 2024] Teaching assistant on Machine Learning @ *DS HSE*
+* [2023 - ongoing] Teaching assistant on Machine Learning @ *DS HSE*
 
 # Publications
 * [Neural Click Models for Recommender Systems] M. Shirokikh, I. Shenbin, A. Alekseev, A. Volodkevich, A. Vasilev, S. I. Nikolenko -- _accepted by SIGIR24_
