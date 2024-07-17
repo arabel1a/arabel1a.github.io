@@ -28,6 +28,6 @@ This page is my interactive CV.
 * [2023 - ongoing] Teaching assistant on Machine Learning @ *DS HSE*
 
 # Publications
-* [Neural Click Models for Recommender Systems] M. Shirokikh, I. Shenbin, A. Alekseev, A. Volodkevich, A. Vasilev, S. I. Nikolenko -- _accepted by SIGIR24_
-* [User Response Modelling In Recommender Systems: A Survey](http://ftp.pdmi.ras.ru/pub/publicat/znsl/v530/p141.pdf) M. Shirokikh, I. Shenbin, A. Alekseev, A. Volodkevich, A. Vasilev, S. I. Nikolenko
-* [Machine Learning for SAT: Restricted Heuristics and New Graph Representations](https://arxiv.org/abs/2307.09141) Mikhail Shirokikh, Ilya Shenbin, Anton Alekseev, Sergey Nikolenko
+* [Neural Click Models for Recommender Systems](https://dl.acm.org/doi/10.1145/3626772.3657939) M. Shirokikh, I. Shenbin, A. Alekseev, A. Volodkevich, A. Vasilev, S. I. Nikolenko, SIGIR2024.
+* [User Response Modelling In Recommender Systems: A Survey](http://ftp.pdmi.ras.ru/pub/publicat/znsl/v530/p141.pdf) M. Shirokikh, I. Shenbin, A. Alekseev, A. Volodkevich, A. Vasilev, S. I. Nikolenko, accepted by the Journal of Mathematical Sciences, Springer. 
+* [Machine Learning for SAT: Restricted Heuristics and New Graph Representations](https://arxiv.org/abs/2307.09141) Mikhail Shirokikh, Ilya Shenbin, Anton Alekseev, Sergey Nikolenko, arXiv preprint.
