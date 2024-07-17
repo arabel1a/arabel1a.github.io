@@ -12,15 +12,16 @@ My amazing stuff:
  * [ ] [An open-source reimplementation of SERCOS II protocol for LinuxCNC](https://github.com/arabel1a/sercos2-linuxcnc)
  * [ ] [An extendible converter for EMC/CNC languages](https://github.com/arabel1a/lst2ngc)*
  * [ ] [S-curve stepdir library for STM32](https://github.com/arabel1a/S-curve-stepdir)
+ * [ ] [A minimalistic thing that counts words when you type in background](https://github.com/arabel1a/wordcounter)
  
-Once i will update all the stuff, but not today :D
 
 ```
-                .    _     *       \|/   .       .      -*-              +
-                  .' \\ .     +    -*-     *   .         '       .   *
-               .  |__''_|  .       /|\ +         .    +       .           |
-                  |     | .                                        .     -*-
-                  |     |              .    '             . *   .    +    '
-                _.'-----'-._     *                  .
-              /          apc\__.__.--._______________
+    .    _     *       \|/   .       .      -*-              +
+      .' \\ .     +    -*-     *   .         '       .   *
+   .  |__''_|  .       /|\ +         .    +       .           |
+      |     | .                                        .     -*-
+      |     |              .    '             . *   .    +    '
+    _.'-----'-._     *                  .
+  /              \__.__.--.____________________________________
+                                  The Lighthouse in the night
 ```
