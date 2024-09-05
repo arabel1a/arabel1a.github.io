@@ -25,3 +25,4 @@ My amazing stuff:
   /              \__.__.--.____________________________________
                                   The Lighthouse in the night
 ```
+{% include analytics.html %}
