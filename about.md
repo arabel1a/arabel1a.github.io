@@ -30,7 +30,7 @@ This page is my interactive CV.
 
 # Publications
 * [Neural Click Models for Recommender Systems](https://dl.acm.org/doi/10.1145/3626772.3657939) M. Shirokikh, I. Shenbin, A. Alekseev, A. Volodkevich, A. Vasilev, S. I. Nikolenko, ACM SIGIR, 2024.
-* [User Response Modelling In Recommender Systems: A Survey](http://ftp.pdmi.ras.ru/pub/publicat/znsl/v530/p141.pdf) M. Shirokikh, I. Shenbin, A. Alekseev, A. Volodkevich, A. Vasilev, S. I. Nikolenko, accepted by the Journal of Mathematical Sciences, Springer. 
+* [User Response Modelling In Recommender Systems: A Survey](https://www.pdmi.ras.ru/znsl/2023/v530.html) M. Shirokikh, I. Shenbin, A. Alekseev, A. Volodkevich, A. Vasilev, S. I. Nikolenko, accepted by the Journal of Mathematical Sciences, Springer. 
 * [Machine Learning for SAT: Restricted Heuristics and New Graph Representations](https://arxiv.org/abs/2307.09141) Mikhail Shirokikh, Ilya Shenbin, Anton Alekseev, Sergey Nikolenko, arXiv preprint, 2023.
 * [Nabla-DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials](https://openreview.net/forum?id=ZoKeo27Tq1) - Kuzma Khrabrov, Anton Ber, Artem Tsypin, Konstantin Ushenin, Egor Rumiantsev, Alexander Telepov, Dmitry Protasov, Ilya Shenbin, Anton Alekseev, Mikhail Shirokikh, Sergey I. Nikolenko, Elena Tutubalina, Artur Kadurin, NeurIPS, 2024.
 
